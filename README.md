@@ -1,1 +1,2 @@
 # coursera-project
+This was a project I made while taking the Web Dev certificate program on Coursera. It involves using hyperlinks, progress bars, and some gradient color I added to make my project a little more unique at the time. While a simple project at the time I struggled with aligning different items next to each other. I like to think I have that concept down now, I certainlty learned a lot when making this project.
